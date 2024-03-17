@@ -1,0 +1,8 @@
+Maintain a separate GitHub repository(name CODEWAY for all the tasks andshare the link of the GitHub repo in the task submission form(it will be givenlater through email).
+
+Task 1
+Portfolio
+
+-Skill section
+-Project description
+-resume selection
