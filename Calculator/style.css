@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+.button{
+  width: 50px;
+  font-size: 12px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.row{
+  font-size: 12px;
+  margin: 12px 0;
+}
+  
+.row input{
+  width: 230px;
+  font-size: 18px;
+  margin: 0;
+  padding: 10px 0;
+  border: 2px solid black;
+  border-radius: 5px;
+
+}
+  
